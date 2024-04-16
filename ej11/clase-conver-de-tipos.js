@@ -40,3 +40,10 @@ console.log("--------------------------------")
 console.log(booleanValue + stringValue) //concatena
 console.log(booleanValue + numberValue) //suma
 console.log(booleanValue + booleanValue) //suma
+
+console.log("------------   quiz--------------------")
+const numero = '596'
+const numeroConv = parseInt(numero)
+
+console.log(typeof numero)
+console.log(typeof numeroConv)
