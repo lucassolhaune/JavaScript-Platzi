@@ -30,8 +30,15 @@ console.log(saludoDiv) //Te devuelve el saludo dividio por arrays por el split (
 console.log(saludoDiv[1]) //Te devuelve lo que tiene la primer posicion = "¿Como"
 
 
-const saludoSinEspacios = 'Hola mundo'
-const saludoConEspacios = 'Holamundo'
+
+const saludoConEspacios = ' Hola mundo '
+const saludoSinEspacios = saludoConEspacios.trim() //Le quita los espacio del inicio y final ' Hola Mundo '
+console.log(saludoSinEspacios)
+
+const saludoOriginal = 'Hola mundo'
+const nuevoSaludo = saludoOriginal.replace('mundo', 'PEPE') //Reemplaza mundo por 'PEPE'
+console.log(nuevoSaludo)
+
 
 
 
