@@ -5,6 +5,7 @@ const username = "Solhaune"
 const fullName = "Lucas Solhaune"
 const age = 23
 const isStudent = true
+const dog = 'Bruno'
 
 //2- Address -> OBJETO
 const address = {
