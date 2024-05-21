@@ -18,4 +18,8 @@ const address = {
 const hobbies = ["coding", "reading", "gaming"]
 
 //4- generating personalized bio
+const personalizedBio = `Hola mi nombre es ${fullName},
+ tengo ${age}, vivo en la ciudad ${address.city}, 
+ en la calle ${address.street}, me encanta mis hobbies ${hobbies.join(", ")}.`
 
+ console.log(personalizedBio)
