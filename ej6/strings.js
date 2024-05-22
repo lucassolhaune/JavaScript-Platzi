@@ -4,7 +4,7 @@ const segundaOpcion = `Hola`
 const terceraOpcion = 'Hola'
 
 //Concatenacion: opcion: +
-const direcc = "calle: Junin 270"
+const direcc = "calle: calle 1234"
 const ciudad = "Rosario"
 const direccCompleta = "Mi direccion completa es: " + direcc + ", " + ciudad
 console.log(direccCompleta)

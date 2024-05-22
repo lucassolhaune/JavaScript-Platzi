@@ -1,15 +1,15 @@
 //Social media Profile
 
 //1- User information
-const username = "Solhaune"
-const fullName = "Lucas Solhaune"
+const username = "alvarez"
+const fullName = "raul"
 const age = 23
 const isStudent = true
 const dog = 'Bruno'
 
 //2- Address -> OBJETO
 const address = {
-    street : "Junin 270",
+    street : "calle 1234",
     city: "Rosario",
     state: "Codingland",
     zipCode: 2000,

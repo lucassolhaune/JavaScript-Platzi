@@ -2,7 +2,7 @@
 let mascota = 'Bruno'
 console.log(mascota)
 
-let dni = '42.182.467'
+let dni = '123.213.3231.7'
 console.log(dni)
 
 let nombre ='Lucas'
