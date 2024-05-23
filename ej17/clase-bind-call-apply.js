@@ -33,7 +33,7 @@ bindingWithBind()
 //Quiz
 //Objeto
 const caricatura ={
-    nombre:'Padrinos magicos'
+    nombre:'cosmo y wanda'
 }
 //Funcion
 function recuerdo (personaje){
